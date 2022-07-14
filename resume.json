@@ -1,0 +1,99 @@
+{
+  "basics": {
+      "name": "Kartik Mehandiratta",
+      "label": "Student",
+      "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+      "email": "2021kuec2057@iiitkota.ac.in",
+      "phone": "+918273080916",
+      "website": "",
+      "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communiocation Engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+      "location": {
+          "address": "Modinagar",
+          "postalCode": "201201",
+          "city": "Modinagar",
+          "countryCode": " India",
+          "region": "Uttar Pradesh"
+      },
+      "profiles": [
+          {
+              "network": "Twitter",
+              "username": "Mehandiratta6",
+              "url": "https://www.twitter.com/Mehandiratta6"
+          },
+          {
+              "network": "Github",
+              "username": "Kartik2057",
+              "url": "https://www.github.com/Kartik2057"
+          },
+          {
+              "network": "linkedin",
+              "username": "kartik mehandiratta",
+              "url": "https://www.linkedin.com/in/kartik-mehandiratta/"
+          },
+          {
+              "network": "Instagram",
+              "username": "",
+              "url": ""
+          }
+      ]
+  },
+  "work": [
+      
+  ],
+  "education": [
+      {
+          "institution": "Indian Institute of Information Technology,Kota",
+          "area": "Engineering",
+          "studyType": "Bachelor (hons)",
+          "startDate": "",
+          "endDate": "",
+          "gpa": "8.87",
+          "courses": [
+              "Electronics and Communication Engineering"
+          ]
+      }
+  ],
+  "awards": [
+      
+  ],
+  "publications": [
+      
+  ],
+  "skills": [
+      {
+          "name": "Competitive Programming",
+          "level": "Intermediate",
+          "keywords": [
+              "Java","C","Cpp","Dsa"
+          ]
+      }
+      {
+        "name": "Web Development",
+        "level": "Beginner",
+        "keywords": [
+            "Html","Css","Javascript"
+        ]
+    }
+  ],
+  "languages": [
+      {
+          "language": "English",
+          "fluency": "Native speaker"
+      }
+  ],
+  "interests": [
+      {
+          "name": "Singing",
+          "keywords": [
+              "Guitar"
+          ]
+      },
+      {
+          "name": "Playing",
+          "keywords": [
+              "Chess",
+              "Badminton"
+          ]
+      }
+  ]
+}
